@@ -1,10 +1,12 @@
 # Single Page App Todolist Javascript (ES6+ classes)
 
-## A Single Page App based on MVC design pattern (Model View Controller) with no frameworks, just pure JavaScript (ES6+ classes) that features:
+### A Single Page App based on MVC design pattern (Model View Controller) with no frameworks, just pure JavaScript (ES6+ classes) that features:
 
 - OOP
 - Routing
 - Switching between different storages (Local Storage, Session Storage)
+
+# Demo: [Github Pages](https://infected-by-js.github.io/spa-mvc-todolist/)
 
 # Getting started
 
