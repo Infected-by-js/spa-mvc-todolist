@@ -1,0 +1,25 @@
+{
+	"name": "spa-mvc-todolist",
+	"version": "1.0.0",
+	"description": "A Single Page App based on MVC design pattern (Model View Controller) with no frameworks, just pure JavaScript (ES6+ classes)",
+	"main": "index.js",
+	"private": "true",
+	"scripts": {
+		"start": "vite  --open",
+		"build": "vite build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Infected-by-js/spa-mvc-todolist.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Infected-by-js/spa-mvc-todolist/issues"
+	},
+	"homepage": "https://github.com/Infected-by-js/spa-mvc-todolist#readme",
+	"dependencies": {
+		"vite": "^2.8.6"
+	}
+}
