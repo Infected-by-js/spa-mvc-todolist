@@ -14,5 +14,5 @@
 $ git clone https://github.com/Infected-by-js/spa-mvc-todolist.git
 $ cd spa-mvc-todolist
 $ npm install
-$ npm run dev
+$ npm run start
 ```
